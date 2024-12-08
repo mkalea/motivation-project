@@ -1,0 +1,30 @@
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-weight: 400;
+    font-family: "Libre Baskerville", serif;
+    font-size: 10pt;
+    font-style: normal;
+    text-align: center;
+}
+
+.snow {
+    width: 100%;
+    border: 5px solid white;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+
+
+
+
